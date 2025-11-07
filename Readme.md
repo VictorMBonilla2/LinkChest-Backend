@@ -1,11 +1,12 @@
 # LinkChest Backend
 
 <p align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="60"><br>Node.js</a>
-  <a href="#"><img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" width="60"><br>Express</a>
-  <a href="#"><img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" width="60"><br>MongoDB</a>
-  <a href="#"><img src="https://raw.githubusercontent.com/github/explore/main/topics/mongoose/mongoose.png" width="60"><br>Mongoose</a>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="70" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" width="70" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" width="70" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongoose/mongoose.png" width="70" />
 </p>
+
 
 ## 📌 Descripción
 
