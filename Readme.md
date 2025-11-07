@@ -1,9 +1,11 @@
 # LinkChest Backend
 
-![Node.js](https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png)
-![Express](https://raw.githubusercontent.com/github/explore/main/topics/express/express.png)
-![MongoDB](https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png)
-![Mongoose](https://raw.githubusercontent.com/github/explore/main/topics/mongoose/mongoose.png)
+<p align="center">
+  <a href="#"><img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="60"><br>Node.js</a>
+  <a href="#"><img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" width="60"><br>Express</a>
+  <a href="#"><img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" width="60"><br>MongoDB</a>
+  <a href="#"><img src="https://raw.githubusercontent.com/github/explore/main/topics/mongoose/mongoose.png" width="60"><br>Mongoose</a>
+</p>
 
 ## 📌 Descripción
 
@@ -45,7 +47,7 @@ LinkChest-Backend/
 ## ⚙️ Instalación
 
 ```bash
-git clone 
+git clone <url_repository>
 cd LinkChest-Backend
 npm install
 ```
@@ -53,12 +55,6 @@ npm install
 ---
 
 ## ▶️ Ejecución del Proyecto
-
-### Modo producción
-
-```bash
-npm start
-```
 
 ### Modo desarrollo
 
@@ -72,7 +68,7 @@ npm run dev
 
 Crea un archivo `.env` con las variables proporcionas en `.env.example` con, por ejemplo:
 
-```json
+```bash
 PORT=4000
 MONGO_URI=mongodb://localhost:27017/linkchest
 JWT_SECRET=tu_clave_secreta
@@ -87,15 +83,6 @@ JWT_SECRET=tu_clave_secreta
 - Integración con MongoDB mediante Mongoose
 - Estructura escalable
 - Manejo de errores y middlewares
-
----
-
-## 📬 Contribuir
-
-1. Haz un fork del proyecto
-2. Crea una rama para tu mejora: `git checkout -b feature-nueva`
-3. Haz commit: `git commit -m "Agrega nueva feature"`
-4. Envía un Pull Request
 
 ---
 
